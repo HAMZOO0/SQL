@@ -4,4 +4,3 @@
 -- delete the data base by using drop database (name )
 
 CREATE DATABASE NUST;
-
