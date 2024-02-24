@@ -16,6 +16,16 @@ CREATE TABLE student(
    INSERT INTO student VALUES (1 , 'Ayaan', 19);
    INSERT INTO student VALUES (2 , 'Iqra', 21);
    INSERT INTO student VALUES(3, 'Hamza', 20);
+-------------------------------------------------------
+-- adding colms in table (long sytex)
+insert into student
+(roll_no , name)
+ value
+ (40 , "Ali"),
+ (41,"Babar"),
+ (42,'sd'),
+ (43,"rauf");
+-------------------------------------------------------
    
 -- use school; 
 -- here i am using use querie bcz next day i start pc then i need to select the database so i use -> use  
