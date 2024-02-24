@@ -16,7 +16,12 @@ CREATE TABLE student(
    INSERT INTO student VALUES (1 , 'Ayaan', 19);
    INSERT INTO student VALUES (2 , 'Iqra', 21);
    INSERT INTO student VALUES(3, 'Hamza', 20);
-
-   Select * from student;
-   -- above syntex is use for print the table 
    
+-- use school; 
+-- here i am using use querie bcz next day i start pc then i need to select the database so i use -> use  
+   Select * from student;
+-- above syntex is use for print the table 
+
+--    show databases;
+
+show tables;
