@@ -15,3 +15,5 @@ select *from student where  city= "Karachi" AND id = 3;
 
 select *from student where  id+5 =  10 ;
 -- here we add diffent mathematical opeartion and condition 
+
+select *from student where  name =  'CCC' AND  city = 'Karachi' ;
