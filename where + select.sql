@@ -22,3 +22,9 @@ select *
 from Customers
  where marks in ( 60 , 70 );
 -- here we use where in cmnd which match the value 
+
+select *
+from Customers
+ where marks not in ( 60);
+
+
