@@ -17,3 +17,8 @@ select *from student where  id+5 =  10 ;
 -- here we add diffent mathematical opeartion and condition 
 
 select *from student where  name =  'CCC' AND  city = 'Karachi' ;
+
+select *
+from Customers
+ where marks in ( 60 , 70 );
+-- here we use where in cmnd which match the value 
