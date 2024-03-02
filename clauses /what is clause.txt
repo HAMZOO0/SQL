@@ -1,0 +1,1 @@
+A clause in SQL is a built-in function that helps to fetch the required records from a database table. A clause receives a conditional expression, i.e. a column name or some terms involving the columns. The clause calculates the result based on the given statements in the expression.11-Oct-2022
