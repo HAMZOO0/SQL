@@ -1,3 +1,4 @@
+-- select use to fetch the colum and from (to put table name )
 select distinct name from student ; 
 -- here we select uniqe data  or print 
 
